@@ -1,0 +1,242 @@
+.reply_field_wrap, #ba_text, .wall_tt .wrap, .bp_tt_wrap, .mott_wrap, .verified_tt_wrap, .gifts_tt_wrap,
+ .wall_module .reply_fakebox, .mv_reply_fakebox, .feedback_reply_field, .im_editable, input.text, input.search, textarea, 
+ input.big_text, input.dark, .audio_search .s_search,.add_media_item, #page_current_info, .wall_module div.page_media_link_desc, .mv_desc,
+.mv_title,.audio_status_wrap, #search_content .video_row .video_row_info_description, #video_content .video_row .video_row_info_description, 
+#choose_video_content .video_row .video_row_info_description, #pva_video_tags .video_row .video_row_info_description, 
+#choose_video_album_content .video_row .video_row_info_description, .im_unread_bar, .wall_module .media_desc .lnk .lnk_mail_description, 
+#pv_box, .selector_container td.selector input.selected, .selector_container td.selector input.focused, #im_submit_hint_opts .radiobtn {
+	color: #BBBBBB !important;
+}
+
+body {
+	color: #BBBBBB !important;
+}
+
+#friends .sections_block .side_filter, .video_search, .help_table_question_visible, .help_table_categories,
+h4.page_top, .pad_msga, .pad_nwsa, .audio_friends_search_btn, .im_log_t td,.tt .tt_text,
+ #pv_box, .selector_container td.selector input.selected, .selector_container td.selector input.focused,
+.wall_module .reply_fakebox_wrap, .wall_module .reply_box, .mv_reply_fakebox_wrap,
+ #friends .search, #friends_req_tabs, #wall_search_bar,.groups_list_search, .group_list_row,
+.wall_module #submit_post_box, .wall_module .reply_box_open .reply_box,
+.error, .pva_period, .pva_period_fixed, #info_module_cont,
+.audio_more_friends, div#wl_reply_form_inner, #profile_bottom_actions a,
+.mv_controls, #friends .user_block .actions, .ddreq_inner,
+.audio_friend, #friends .side_panel, .selector_container,
+#results .three_col_row, #im_sound_controls, .audio_share_cont, 
+div.fc_clist_filter_wrap, #search_query_wrap, .summary_wrap, 
+#feed_bar, .fc_tab_notify, .bp_post, .bt_header, #im_bar,
+ #faq_search_form,  .tabs.t_bar, .friends_find_cont,
+.tabs, .full_wall_tabs, .photos_add_selected .photos_add_cont,
+ul.t0 a, #ba_post, #im_peer_controls, .page_actions a,
+#public #subscribe, #public #unsubscribe, #public #unshare, 
+#public_actions_wrap, #im_footer_filler, #pad_cont,
+.wide_wall_module, .box_body, .audio_table .side_panel,
+#audio.new .audio_search, .search_table td.results, 
+.search_results td.results, .search_table, #search_query_wrap, 
+#side_bar, .fc_tab, #pad_filters_panel, #side_bar ol li .left_row,
+.left_box, .wall_module #page_wall_posts.all .all, 
+.wall_module #page_wall_posts.own .own, .wall_module #page_wall_posts.all .online,
+.wall_module .reply {
+	background: #202020 !important;
+}
+
+
+ #im_filter, .wall_tt .bottom, .pv_comment, #pad_footer, #friends .user_block, div.fc_tab_txt,
+.audio_search .s_search,.add_media_item,
+body {
+	background-color: #202020 !important; 
+} 
+
+ #feed_new_posts, .search_catalog_row.selected, 
+#pv_comments_header, .box_dark .box_controls, #profile_full_info h4 b, #profile_full_info h4 a.fl_r, #profile_full_info h4 a.fl_l,
+#profile .rate_line .rate_right, .stl_active.over_fast #stl_bg, .im_unread_bar_wrap,
+#im_resizer_wrap, .public_actions_btn, .public_actions_header, #ac, #pd, #friends .sections_block .cur_section,
+.module_header .header_top, #profile_main_actions {
+	background: #252A30 !important;
+}
+
+.replies_open, #mv_comments_header, .feedback_row_answer_wrap, .feedback_reply_row_wrap, .fc_msgs, #videocat_page .videocat_more_toggle,
+.wr_header, #search_content .video_row, #video_content .video_row, #choose_video_content .video_row, #pva_video_tags .video_row, 
+#choose_video_album_content .video_row, .video_search, #fmenu, #new_ticket,.add_media_head, .wall_fixed .wall_fixed_more, #feedback_unread_bar,
+.ddreq_item:hover, .ddreq_header,.profile_frdd_wrap:hover, .profile_frdd_active, .replies_side_over.replies_side_over, .bnav_a:hover, .im_friend_over, 
+.friends_import_row:hover, .counts_module div a:hover, .profile_rate_warning .warning_row:hover, .video_extended_search_toggle:hover, .page_actions a:hover,
+.public_actions_btn:hover, .friends_act:hover, .profile_info_link:hover, #profile_groups_link:hover, .wl_owner_head_wrap, #profile_bottom_actions a:hover, 
+#side_bar ol li .left_row:hover, .wall_module .post_like:hover, .wall_module .post_share:hover, .add_media_item:hover, .profile_gift_send, 
+#profile_bottom_actions a:hover,.chat_active, .chat_expand, .chat_onl_wrap:hover, .chat_tab_wrap:hover, a.fc_contact_over { 
+	background-color: #252A30 !important;
+}
+
+.search_catalog_row:hover,
+.audio_friend:hover, .audio_friends_search_btn.over, #friends .sections_block .side_filter:hover, #feed_new_posts:hover, .search_catalog_row.selected:hover,
+.audio_filter.over, .audio_more_friends:hover, #profile .rate_line .rate_left, .wr_header:hover, #videocat_page .videocat_more_toggle:hover,
+.feedback_row_clickable_over1, .feedback_row_clickable_over2, .feedback_row_clickable_over3, .head_nav a.top_nav_link:hover,
+.feedback_row_clickable_over4,.tickets_faq_row.over, .dialogs_row_over, .fc_msgs_out .fc_msgs,
+.dialogs_row_over .dialogs_new_msg, .im_sel_row .im_log_author, .im_sel_row .im_log_body, 
+.im_sel_row .im_log_date, .im_sel_row, #audio.new .audio.over .area, #audio.new .audio.current.tt_shown .area,
+#audio.new .audio.current .area, #audio.new .audio.current.tt_shown .area #audio.new .audio.current.over .area,
+.audio.over .area, .tb_tabs{
+	background: #353E49 !important;
+}
+
+#gp_back {
+	background-color: #353E49 !important;
+}
+
+.reply_field_wrap, #ba_text,
+.wall_tt .wrap, .bp_tt_wrap, .mott_wrap, .verified_tt_wrap, .gifts_tt_wrap,
+ .wall_module .reply_fakebox, .mv_reply_fakebox, .feedback_reply_field,
+.im_editable, input.text, input.search, textarea, input.big_text, 
+input.dark, 
+#pv_comment,
+.audio_friends_search_input.text { 
+	background: #1a1a1a !important;
+}
+
+#ba_post_border, .profile_top_sep, #friends .delete_row div { 
+	background: #3e4852 !important;
+}
+
+#im_bar,
+.dialogs_row,
+.tt .tt_text,
+.dialogs_row_over, 
+.fc_msgs_out .fc_msgs,
+.dialogs_row_over .dialogs_new_msg {  
+	border-color: #3e4852 !important;
+}
+
+.im_log_t td,.tt .tt_text {
+	border-color: #202020 !important;
+}
+
+#pv_comments_header, .box_dark .box_controls { 
+	border: 0px solid #3e4852 !important;
+}
+
+.video_search_input_wrap input, 
+.pad_msga, .pad_nwsa, #pv_comment, .audio_friends_search_btn, .audio_friends_search_btn.over,
+.feedback_row_answer_wrap, .feedback_reply_row_wrap, .fc_msgs, .reply_field_wrap, #ba_text,
+.wall_tt .wrap, .bp_tt_wrap, .mott_wrap, .verified_tt_wrap, .gifts_tt_wrap,  .wall_module .reply_fakebox, 
+.mv_reply_fakebox, .feedback_reply_field, .im_editable, input.text, input.search, textarea, input.big_text, 
+input.dark, .selector_container table.selector_table, .photos_add_upl_row.photos_add_first_child, 
+#box_layer .photos_privacy_control, #wrap1{
+	border: 1px solid #3e4852 !important;
+}
+
+#profile .narrow_column .header_top {
+	border-right: 0px solid #3e4852 !important;
+}
+
+.audio_wrap .main_panel, #pad_playlist_panel, .search_table td.results, .search_results td.results, .help_table_questions.help_table_questions,
+#profile .narrow_column .module_body, #friends .main_panel, #im_friends_all_wrap {
+	border-right: 1px solid #3e4852 !important;
+}
+
+#friends .sections_block .sep, .help_tiles, .help_table_categories, .help_table_questions,
+.wall_module .post, .mv_comment, .mv_desc, .pv_comment, #pad_footer, #friends .user_block, div.fc_tab_txt,
+.wall_module .reply, .tickets_faq_row, #tickets_faq_list, #im_filter, .wall_tt .bottom, #results .three_col_row, 
+#im_sound_controls, .audio_share_cont, div.fc_clist_filter_wrap, #im_peer_controls, #side_bar .more_div, 
+#profile_bottom_actions, .feedback_row_clickable_over2 {
+	border-top: 1px solid #3e4852 !important;
+}
+
+.im_log_act, .im_log_author, .im_log_body, .im_log_date, .im_log_rspacer {
+	border-top: 5px solid #202020 !important;
+}
+
+.pv_cont .narrow_column, #public .narrow_column .header_top, #public .narrow_column .module_body { 
+	border-left: 1px solid #3e4852 !important;
+}
+
+ .wall_module .published_by_quote, .wall_module .published_sec_quote,
+.wall_module .media_desc .lnk.lnk_mail, 
+.im_fwd_log_wrap, 
+.im_wall_log_wrap { 
+	border-left: 2px solid #3e4852 !important;
+}
+
+.help_table_question,.wide_wall_module .post,
+.audio_filter_sep, .pad_msg_wrap, .pad_nws_wrap, .im_resizer, .video_search, #search_content .video_row, #video_content .video_row, 
+#choose_video_content .video_row, #pva_video_tags .video_row, #choose_video_album_content .video_row#search_content .video_row, 
+#video_content .video_row, #choose_video_content .video_row, #pva_video_tags .video_row, #choose_video_album_content .video_row
+.wide_wall_module .post , .im_friend, #friends .search, #friends_req_tabs, #wall_search_bar,.groups_list_search, .group_list_row,
+.p_header_bottom, h4, .feedback_grouped_row_wrap, .feedback_answered_row_wrap, .big_wall_post #submit_post_box, .im_unread_bar,
+#search_query_wrap, .summary_wrap, #feed_bar, .fc_tab_notify, .bp_post, .bt_header, #im_footer_sh, #main_feed .post, .ads_ads_news_wrap { 
+	border-bottom: 1px solid #3e4852 !important;
+}
+
+/*Необщие элементы*/
+
+.im_new_msg .im_log_author, 
+.im_new_msg .im_log_body, 
+.im_new_msg .im_log_date,
+.dialogs_new_msg { 
+	background: #2C273F !important;
+}
+
+.left_count_wrap,
+.dialogs_unread { 
+	background: #2F2952 !important; 
+	color: #7223D5 !important;
+}
+
+.p_header_bottom { 
+	background-color: #1E2227 !important;
+}
+
+#im_footer_sh, 
+.tl1, 
+.tl2 { 
+	height:0px !important;
+}
+
+#header { 
+	color: #DBDBDB !important;
+	background-color: #353E49 !important; 
+	border: solid #3e4852 !important; 
+	border-width: 0px 1px !important;}
+
+#header_wrap1 { 
+	border-width: 0px !important;
+}
+
+.im_resizer {
+	border-top: 0px !important;
+}
+
+.replies_open, #mv_comments_header, a {
+	color: #7D92A9 !important;
+}
+
+.audio_filter, .audio_filter.over, .wall_post_over .post_like_link,
+.wall_module .post:hover .post_like_link,
+.wall_post_over .post_share_link,
+.wall_module .post:hover .post_share_link{
+	color: #3677A9 !important;
+}
+
+.audio_filter.selected,.head_nav a.top_nav_link {
+	color: #FFFFFF !important;
+}
+
+a.wall_reply_greeting { 
+	color: #6D8EA8 !important;
+}
+
+ .msg, .box_msg { 
+ 	background: #27221C !important; 
+ 	border: 1px solid #D47A4C !important;
+ }
+
+#profile_actions a {
+	background: RGBA(255,255,255,0) !important;
+}
+
+#ts_input{
+	background: #FFFFFF !important;
+}
+
+#page_header .back, #page_header .right, #page_header .left {
+	background: #45688E !important;
+}
+

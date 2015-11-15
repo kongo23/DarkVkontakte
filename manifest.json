@@ -1,0 +1,32 @@
+﻿{
+"name": "Dark Vk Theme", // Название расширения
+"version": "0.1", // Номер версии
+"description": "Dark theme for vk.com", // Описание расширения
+"manifest_version": 2,
+    "permissions":[
+        "contextMenus",
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "background": "background.html",
+
+"browser_action": { // Элементы браузера
+"default_title": "Dark VK", // Название кнопки
+"default_icon": "images/icon.png", // Иконка для кнопки
+"default_popup": "popup.html" // Всплывающее окно
+},
+
+"options_page": "options.html",
+    "content_scripts": [
+        {
+            "matches": ["https://vk.com/*", "http://vk.com/*"],
+            "css": ["mystyle.css"],
+            "js": [ "js/jquery-2.1.4.min.js","myscript.js"]
+        }
+    ],
+"web_accessible_resources": [
+    "images/*.png"
+  ]
+}
+
